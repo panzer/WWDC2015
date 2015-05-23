@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>94C0FF3F-B6CE-47E1-ABE1-8DD617643F90</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Matt Panzer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B58C628FA2CDC0DC574E5C3C0282D12FA3FC2C4B</key>
+		<string>https://github.com/MPanzer/WWDC2015.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Matt Panzer.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B58C628FA2CDC0DC574E5C3C0282D12FA3FC2C4B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MPanzer/WWDC2015.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B58C628FA2CDC0DC574E5C3C0282D12FA3FC2C4B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B58C628FA2CDC0DC574E5C3C0282D12FA3FC2C4B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Matt%20Panzer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
